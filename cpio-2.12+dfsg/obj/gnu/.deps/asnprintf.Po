@@ -1,0 +1,10 @@
+asnprintf.o: ../../gnu/asnprintf.c ../config.h ../../gnu/vasnprintf.h \
+ /opt/intel/include/stdarg.h /opt/intel/include/stddef.h
+
+../config.h:
+
+../../gnu/vasnprintf.h:
+
+/opt/intel/include/stdarg.h:
+
+/opt/intel/include/stddef.h:

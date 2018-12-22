@@ -1,0 +1,12 @@
+stripslash.o: ../../gnu/stripslash.c ../config.h ../../gnu/dirname.h \
+ /opt/intel/include/stdbool.h /opt/intel/include/stddef.h ../../gnu/dosname.h
+
+../config.h:
+
+../../gnu/dirname.h:
+
+/opt/intel/include/stdbool.h:
+
+/opt/intel/include/stddef.h:
+
+../../gnu/dosname.h:

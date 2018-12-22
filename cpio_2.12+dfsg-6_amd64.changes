@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 02 Dec 2017 09:27:39 +0000
+Source: cpio
+Binary: cpio cpio-win32
+Built-For-Profiles: nobiarch nocheck nodoc
+Architecture: all amd64
+Version: 2.12+dfsg-6
+Distribution: unstable
+Urgency: medium
+Maintainer: Anibal Monsalve Salazar <anibal@debian.org>
+Changed-By: Chris Lamb <lamby@debian.org>
+Description:
+ cpio       - GNU cpio -- a program to manage archives of files
+ cpio-win32 - GNU cpio -- a program to manage archives of files (win32 build)
+Changes:
+ cpio (2.12+dfsg-6) unstable; urgency=medium
+ .
+   * Upload to unstable.
+     - Update debian/gbp.conf.
+   * Remove empty directories under usr/share/man.
+   * debian/control: "Priority: extra" has been replaced with "Priority:
+     optional".
+Checksums-Sha1:
+ 6d20c5cdd1d980b083ceff772ddf3582a72c3389 10608 cpio-win32_2.12+dfsg-6_all.deb
+ 02f956e54c8ae4310fe732b6247147fdae76eec8 5044 cpio_2.12+dfsg-6_amd64.buildinfo
+ 20879d2146d8b00fefbf53154a3a6af20fb06f20 394824 cpio_2.12+dfsg-6_amd64.deb
+Checksums-Sha256:
+ e0d1a4e8f46534a9720fbc0b63af712e67c16a43c218334e66298f1f82382150 10608 cpio-win32_2.12+dfsg-6_all.deb
+ 807f9b72f5edfafe9adf75e1ce1e0aaaf83007eb01189c3cf3ee43b5ffef19e8 5044 cpio_2.12+dfsg-6_amd64.buildinfo
+ f40d81d4d278d3eef4a44cdee79801ffcd32e9595d4da5b4c8bc244124539acc 394824 cpio_2.12+dfsg-6_amd64.deb
+Files:
+ e169a3ac559b4a630b605633aea8a682 10608 utils optional cpio-win32_2.12+dfsg-6_all.deb
+ 57a35fe6c9ca0a1f573b11d25543c61e 5044 utils important cpio_2.12+dfsg-6_amd64.buildinfo
+ c15c84d544d37c813efe2e7ba5252e29 394824 utils important cpio_2.12+dfsg-6_amd64.deb

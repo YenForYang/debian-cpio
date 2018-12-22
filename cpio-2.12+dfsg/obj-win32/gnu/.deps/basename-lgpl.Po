@@ -1,0 +1,46 @@
+basename-lgpl.o: ../../gnu/basename-lgpl.c ../config.h ../../gnu/dirname.h \
+ /opt/intel/include/stdbool.h /opt/intel/include/stddef.h ../../gnu/dosname.h \
+ ./string.h /usr/include/string.h /usr/include/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
+ ./strings.h /usr/include/strings.h
+
+../config.h:
+
+../../gnu/dirname.h:
+
+/opt/intel/include/stdbool.h:
+
+/opt/intel/include/stddef.h:
+
+../../gnu/dosname.h:
+
+./string.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/libc-header-start.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/bits/long-double.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/types/locale_t.h:
+
+/usr/include/bits/types/__locale_t.h:
+
+./strings.h:
+
+/usr/include/strings.h:

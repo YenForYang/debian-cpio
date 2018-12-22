@@ -1,0 +1,6 @@
+# tests/atlocal.  Generated from atlocal.in by configure.                                     -*- shell-script -*-
+# Configurable variable values for tar test suite.
+# Copyright (C) 2004, 2010, 2014-2015 Free Software Foundation, Inc.
+
+PATH=/dev/shm/cpio/cpio-2.12+dfsg/obj-win32/tests:/dev/shm/cpio/cpio-2.12+dfsg/obj-win32/src:$top_srcdir:$srcdir:$PATH
+

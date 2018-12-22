@@ -1,0 +1,8 @@
+c-ctype.o: ../../gnu/c-ctype.c ../config.h ../../gnu/c-ctype.h \
+ /opt/intel/include/stdbool.h
+
+../config.h:
+
+../../gnu/c-ctype.h:
+
+/opt/intel/include/stdbool.h:
